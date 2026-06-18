@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/calidez-perdida/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Calidez perdida](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/calidez-perdida/) |
+| **Get License** | [Official Music Licensing for Calidez perdida](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/calidez-perdida/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Noche oscura en la ciudad pero tú brillas más
+> Dime dónde estás que te quiero ir a buscar
+> Esa mirada tuya a mí me quita la paz
+> Sube la tensión y ya no hay vuelta atrás
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
