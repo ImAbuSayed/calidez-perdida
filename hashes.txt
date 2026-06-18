@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Calidez perdida
+
+This log tracks the cryptographic history and versioning for the song **Calidez perdida** (calidez-perdida).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-18T20:11:45.564754 | `v1` | `01e0111d9282fcb115b5daf9003402498180cff834954571e536822c5f36fab6` | `63bb2e175eb47814011c9e5b0a3e2bc7c3a863353d8822b0ce5ba51adafd546e` | `2026-06-18_calidez-perdida-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
